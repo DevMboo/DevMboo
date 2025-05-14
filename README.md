@@ -62,6 +62,14 @@ Me chamo Luan Chaves de Sousa, tenho 24 anos e sou de São Paulo, Brasil. Sou fo
 />
 <img 
     align="left" 
+    alt="Spring Boot" 
+    title="Spring Boot"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
+/>
+<img 
+    align="left" 
     alt="Angular" 
     title="Angular"
     width="30px" 
@@ -91,6 +99,14 @@ Me chamo Luan Chaves de Sousa, tenho 24 anos e sou de São Paulo, Brasil. Sou fo
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="AWS" 
+    title="AWS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" 
 />
 
 <br/>
